@@ -4,7 +4,7 @@ import {Button, SafeAreaView, Text, useColorScheme, View} from 'react-native';
 import * as Sentry from '@sentry/react-native';
 
 Sentry.init({
-  dsn: 'https://34168f20802c44eb8314f6cba0eac505@o1112266.ingest.sentry.io/6143197',
+  dsn: 'create sentry project and insert dsn here to connect sentry',
 });
 
 const App = () => {
